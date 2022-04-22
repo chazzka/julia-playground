@@ -1,5 +1,7 @@
 using Test
+include("try.jl")
+
 
 @test true
 
-@test false
+@test add(5,5) != 10
