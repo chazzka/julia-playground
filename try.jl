@@ -14,4 +14,14 @@ function onlyEven(x)
     return filter(isEven, x)
 end
 
-print(onlyEven([1,2,3,4]))
+
+names = [("Radim", 10), ("Adam", 15), ("Oto", 20), ("Radek", 7)]
+
+
+function getMatureAlphabet(data)
+    return
+end
+
+
+print(sort(names))
+function only
